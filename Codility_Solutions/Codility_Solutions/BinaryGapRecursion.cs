@@ -10,7 +10,7 @@ namespace Codility_Solutions
     {
         public static int SolutionMethod(int N)
         {
-
+            throw new NotImplementedException();
         }
     }
 }
